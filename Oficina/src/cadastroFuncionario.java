@@ -10,5 +10,5 @@ public class cadastroFuncionario extends JFrame implements ActionListener {
 			senha = "85002062";
 	
 	
-
+Victor hugo é gay
 }
