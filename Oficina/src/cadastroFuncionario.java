@@ -10,6 +10,7 @@ public class cadastroFuncionario extends JFrame implements ActionListener {
 	private String url = "jdbc:mysql://127.0.0.1:3306/aula1110?useSSL=false",
 			usuario = "root",
 			senha = "85002062";
+	
 	private Connection conexao;
 	private Statement stm;
 
