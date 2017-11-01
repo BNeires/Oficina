@@ -9,8 +9,6 @@ public class cadastroFuncionario extends JFrame implements ActionListener {
 			usuario = "root",
 			senha = "85002062";
 	
-	public void actionPerformed(ActionEvent arg0) {
-		
-	}
+	
 
 }
