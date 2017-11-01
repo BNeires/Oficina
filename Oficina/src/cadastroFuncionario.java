@@ -9,12 +9,4 @@ public class cadastroFuncionario extends JFrame implements ActionListener {
 			usuario = "root",
 			senha = "85002062";
 
-	@Override
-	public void actionPerformed(ActionEvent arg0) {
-		// TODO Auto-generated method stub
-		
-	}
-	
-	
-
 }
