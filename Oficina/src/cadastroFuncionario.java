@@ -1,4 +1,13 @@
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
-public class cadastroFuncionario {
+import javax.swing.JFrame;
+
+public class cadastroFuncionario extends JFrame implements ActionListener {
+
+	
+	public void actionPerformed(ActionEvent arg0) {
+		
+	}
 
 }
