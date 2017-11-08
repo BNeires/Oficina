@@ -116,7 +116,6 @@ public class cadastroFuncionario extends JFrame implements ActionListener {
 		cf.setVisible(true);
 	}
 
-	@Override
 	public void actionPerformed(ActionEvent arg0) {
 		// TODO Auto-generated method stub
 		
